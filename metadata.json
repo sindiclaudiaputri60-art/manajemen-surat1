@@ -1,0 +1,7 @@
+{
+  "name": "SIMASURAT - Sistem Manajemen Surat Masuk & Keluar",
+  "description": "Aplikasi manajemen persuratan kantor dan dinas lengkap: surat masuk, surat keluar, disposisi pimpinan, manajemen pengguna, buku agenda, dan laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
